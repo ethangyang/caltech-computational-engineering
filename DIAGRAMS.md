@@ -10,4 +10,12 @@ This file contains the high-resolution structural layouts and computational simu
 ---
 
 ### Figure 2: 3D Finite Element Simulation Model (CanDo)
-![CanDo 3D Finite Element Simulation Model](cando-model.png)
+
+If your file ends in lowercase .png, this one will load:
+![CanDo 3D Model Lowercase](./cando-model.png)
+
+If your file ends in uppercase .PNG, this one will load:
+![CanDo 3D Model Uppercase](./cando-model.PNG)
+
+If your file has a capital C, this one will load:
+![CanDo 3D Model Capital C](./Cando-model.png)
