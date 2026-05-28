@@ -8,7 +8,8 @@ The architecture transitions from 2D scaffold routing to a 3D pre-bent equilibri
 
 ![caDNAno Scaffold and Staple Routing Diagram](https://github.com/user-attachments/assets/dde51c71-0798-46f9-925e-ed93feafdcae)
 
-![CanDo 3D Finite Element Simulation Model](F4C43600-6DDB-4F0C-8998-648B142E047A.png)
+![CanDo 3D Finite Element Simulation Model](<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/524ec9a3-ee7f-44e2-86a0-a14b57aebf91" />
+)
 
 ## Project Overview & Mechanism
 The objective of this project is to engineer a dynamic "C-to-straight" structural DNA origami switch that acts as a mechanical safety gate for antimicrobial peptides to prevent off-target toxicity on healthy human cells:
