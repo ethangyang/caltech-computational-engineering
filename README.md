@@ -11,9 +11,7 @@ The architecture transitions from 2D scaffold routing to a 3D pre-bent equilibri
 </p>
 
 <p align="center">
-  <img src="<img width="631" height="472" alt="cando-model" src="https://github.com/user-attachments/assets/e57eb397-51b9-41cc-9d52-7f0b4d09d6fd" />
-" width="60%" alt="CanDo 3D Finite Element Simulation Model" />
-  <br />
+  <img width="631" height="472" alt="cando-model" src="https://github.com/user-attachments/assets/f1027bc8-9418-4657-83b3-99f4e6a7d590" />
   <em>Figure 2: 3D finite element simulation model (CanDo) displaying the predicted structural curvature and mechanical flexibility profile of the locked C-shape state.</em>
 </p>
 
