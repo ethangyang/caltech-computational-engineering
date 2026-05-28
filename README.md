@@ -22,11 +22,14 @@ The objective of this project is to engineer a dynamic "C-to-straight" structura
 - **Targeted Activation (Straightened Grid):** Bacterial targeting antibodies unlock a mechanical latch, causing the structure to flatten. As it straightens, the outer surface helices contract to baseline, forcing the peptides into a high-density, synchronized grid that cooperatively disrupts and pops the target bacterial wall.
 
 ## Research Milestones & Evaluation
-Project progression, risk assessment, and milestone evaluation are strictly structured around the **Heilmeier Catechism** to ensure rigorous defense for academic track and competition reviews.
+Project progression, risk assessment, and milestone evaluation are strictly structured around the [DARPA Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism) to ensure rigorous defense for academic track and competition reviews.
 
-### Milestone Log
-- [x] **Phase 1: Structural Design & Scaffold Routing** - Map the primary geometric architecture and cross-over points in caDNAno.
-- [ ] **Phase 2: Transition State Simulations (In Progress)** - Set up the environment parameters in `oxDNA` to model relaxation mechanics and verify the mechanical stability of the locked C-shape.
-- [ ] **Phase 3: Peptide Grid Optimization** - Model the cooperative binding constants and local density thresholds required to overwhelm the bacterial membrane.
-- [ ] **Phase 4: Synthesis & Research Layout** - Compile simulation transition renders, structural energy profiles, and quantitative logs for final presentation.
+### Project Timeline
 
+* **[X] Phase 1: Structural Design & Scaffold Routing (Completed)** Mapped the primary geometric architecture and cross-over points in caDNAno to establish structural boundaries.
+
+* **[-] Phase 2: Transition State Simulations (In Progress)** Setting up environment parameters in `oxDNA` to model relaxation mechanics and verify the mechanical stability of the locked C-shape.
+
+* **[ ] Phase 3: Peptide Grid Optimization** Modeling the cooperative binding constants and local density thresholds required to overwhelm the bacterial membrane.
+
+* **[ ] Phase 4: Synthesis & Research Layout** Compiling simulation transition renders, structural energy profiles, and quantitative logs for final presentation.
