@@ -3,6 +3,9 @@ An advanced computational nanotech engineering project tracking the design, rout
 ## Structural Design & Biophysical Modeling
 The architecture transitions from 2D scaffold routing to a 3D pre-bent equilibrium state to establish the mechanical safety gate geometry.
 
+## Structural Design & Biophysical Modeling
+The architecture transitions from 2D scaffold routing to a 3D pre-bent equilibrium state to establish the mechanical safety gate geometry.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dde51c71-0798-46f9-925e-ed93feafdcae" width="100%" alt="caDNAno Scaffold and Staple Routing Diagram" />
   <br />
@@ -10,10 +13,12 @@ The architecture transitions from 2D scaffold routing to a 3D pre-bent equilibri
 </p>
 
 <p align="center">
-  <img src="[F4C43600-6DDB-4F0C-8998-648B142E047A.png]" width="60%" alt="CanDo 3D Finite Element Simulation Model" />
+  <img src="F4C43600-6DDB-4F0C-8998-648B142E047A.png" width="60%" alt="CanDo 3D Finite Element Simulation Model" />
   <br />
   <em>Figure 2: 3D finite element simulation model (CanDo) displaying the predicted structural curvature and mechanical flexibility profile of the locked C-shape state.</em>
 </p>
+
+---
 
 ## Project Overview & Mechanism
 The objective of this project is to engineer a dynamic "C-to-straight" structural DNA origami switch that acts as a mechanical safety gate for antimicrobial peptides to prevent off-target toxicity on healthy human cells:
