@@ -21,7 +21,7 @@ The objective of this project is to engineer a dynamic "C-to-straight" structura
 - **Off-Target Protection (Banded C-Shape):** When bent into a tight C-shape, the outer surface stretches, physically separating the peptides to prevent cooperative pore formation on host cells. A secondary PEG bumper layer provides steric hindrance.
 - **Targeted Activation (Straightened Grid):** Bacterial targeting antibodies unlock a mechanical latch, causing the structure to flatten. As it straightens, the outer surface helices contract to baseline, forcing the peptides into a high-density, synchronized grid that cooperatively disrupts and pops the target bacterial wall.
 
-### Computational Data Pipeline
+## Computational Data Pipeline
 To move beyond visual simulations, this project utilizes a custom Python-based data analysis pipeline to evaluate structural integrity:
 * **Data Parsing:** Leveraging `Pandas` and `NumPy` to process massive trajectory configuration files and coordinate outputs exported from `oxDNA` and `CanDo`.
 * **Quantitative Metrics:** Tracking Root-Mean-Square Deviation (RMSD) over simulation runtimes to evaluate thermodynamic equilibrium.
