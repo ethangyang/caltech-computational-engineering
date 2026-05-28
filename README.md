@@ -3,8 +3,7 @@ An advanced computational nanotech engineering project tracking the design, rout
 ## Structural Design & Scaffold Routing
 Below is the current structural layout designed in `caDNAno`, detailing the precise scaffold-routing paths and staple crossovers engineered to establish the baseline structural geometry.
 
-![caDNAno Scaffold and Staple Routing Diagram](<img width="887" height="177" alt="image" src="https://github.com/user-attachments/assets/dde51c71-0798-46f9-925e-ed93feafdcae" />
-)
+<img src="https://github.com/user-attachments/assets/dde51c71-0798-46f9-925e-ed93feafdcae" width="887" alt="caDNAno Scaffold and Staple Routing Diagram" />
 
 ## Project Overview & Mechanism
 The objective of this project is to engineer a dynamic "C-to-straight" structural DNA origami switch that acts as a mechanical safety gate for antimicrobial peptides to prevent off-target toxicity on healthy human cells:
